@@ -1,1 +1,389 @@
 
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>PGDYT</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link href="https://fonts.googleapis.com/css?family=Muli:300,400,700,900" rel="stylesheet">
+  <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/jquery-ui.css">
+  <link rel="stylesheet" href="css/owl.carousel.min.css">
+  <link rel="stylesheet" href="css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+  <link rel="stylesheet" href="css/jquery.fancybox.min.css">
+
+  <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+
+  <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+  <link rel="stylesheet" href="css/aos.css">
+  <link href="css/jquery.mb.YTPlayer.min.css" media="all" rel="stylesheet" type="text/css">
+
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/social.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu site-navbar-target">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+
+
+    
+
+    <header class="site-navbar py-4 js-sticky-header site-navbar-target" role="banner">
+
+      <div class="container-fluid">
+        <div class="d-flex align-items-center">
+          <div class="site-logo"><a href="index.html"><img src="images/logo/mvyogas.png" alt="MV Yogas" width="140" height="80"> </a></div>
+          <div class="ml-auto">
+            <nav class="site-navigation position-relative text-right" role="navigation">
+              <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
+                <li><a href="index.html#home-section" class="nav-link">Home</a></li>
+                <li><a href="index.html#classes-section" class="nav-link">Yoga Courses</a></li>
+                <li><a href="index.html#schedule-section" class="nav-link">Yogic Forms</a></li>
+                <li><a href="index.html#trainer-section" class="nav-link">Instructors</a></li>
+                <li><a href="index.html#services-section" class="nav-link">Achievements</a></li>
+                <li><a href="index.html#contact-section" class="nav-link">Contact</a></li>
+                <li><a href="gallery.html" class="nav-link">Gallery</a></li>
+              </ul>
+            </nav>
+            <a href="#" class="d-inline-block d-lg-none site-menu-toggle js-menu-toggle float-right"><span class="icon-menu h3"></span></a>
+          </div>
+
+        </div>
+      </div>
+
+    </header>
+
+
+    <div class="bgimg" style="background-image: url('images/convo1.JPG');" data-stellar-background-ratio="0.1">
+    
+      <div class="container">
+        <div class="row align-items-center justify-content-center text-center">
+          <div class="col-md-7">
+            <h2 class="">Post-Graduation Diploma in Yoga Therapy [P.G.D.Y.T]</h2>
+            <p class="lead mx-auto desc mb-5">Teachers Training Course [TTC].
+            </p>
+          </div>
+        </div>
+      </div>
+    
+    </div>
+
+   
+    <div class="site-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-lg-12">
+            
+          </div>
+        </div>
+        <h2>Course Overview</h2><br>
+        <div class="row mb-5">
+          <div class="col-lg-6" style = "color:black; text-align:justify;">
+            <p>The <i><b>post-Graduation Diploma in Yoga Therapy [P.G.D.Y.T]</b></i> is aimed at producing eminent holistic Yoga Therapists. <i><b>Yoga Therapy </b></i>uses the ancient science of yoga 
+              to enhance the health and wellness at all levels of the individual  physical, mental, emotional, 
+              intellectual and spiritual. Wide range of ailments/diseases such as<i><b>diabetes, blood pressure, anxiety,
+               depression, back pain, sinusitis, heart related issues </b></i>and many more can be successfully treated. 
+               Yoga therapy respects individual differences in age, culture, religion, philosophy, occupation, mental and physical health.
+                Yoga Therapy increases the ability of an individual to utilize the medicine. There are five sheaths which encase the 
+                body such as annamaya kosha, pranamaya kosha, manomaya kosha, vijnanamaya Kosha and anandamaya Kosha.
+                 Yoga Therapy works positively at all the five dimensions or koshas.</p><br><br>
+                 <h3>Course Learning Outcomes:
+                </h3><br>
+                <!-- change font to normal -->
+                <p>At the end of the course student will be able to,</p>
+
+                </h4><br>
+                 <div class="ul-check list-unstyled success">
+                  <li>Understand the philosophy, history and development of yogic science
+                  </li>
+                  <li>Cognize theoretical and practical aspects of<b> asanas, pranayama, meditation, Mudra, Banda </b> and <b> kriyas</b>
+                  </li>
+                  <li>Understanding Anatomy and Physiology of human body
+                  </li>
+                  <li>Counsel and understand the medical issue faced by the individual 
+                  </li>
+                  <li>Advise the necessary dietary changes one must incorporate to make the healing process faster
+                  </li>
+                  <li>Suggest the necessary lifestyle changes one must follow for better healing and healthy living
+                  </li>
+                  <li>Design and develop a Yoga Therapy Individual Specific Module keeping in mind the medical history of the and  ailment the individual suffering from
+                  </li>
+                  <li>Teach and train the individual to prevent the disorder and maintain the fitness
+                  </li>
+                  <li> Understand importance of alternate healing science such as Ayurveda, Naturopathy, Meditation and Pranic Healing
+                  </li>
+                  <li> Revive and promote the ancient Gurukula System of yoga education.
+                  </li>
+                </div>
+              <br><br>
+                
+              <h2>Eligibility Prerequisites:
+                </h2>  <br>
+                <!-- justify -->
+                <p style =  "text-align:justify;">Bachelor’s degree or any equivalent from any recognized university in any discipline such as BA, BBA, BSc, Bcom, BCA, LLB, BE, BEd, BAMS, MBBS etc.
+                </p>
+                
+                <br>
+                
+              </div>
+          <div class="col-lg-6" style = "color:black;text-align:justify;">
+            
+            <p >The main objective of Post-Graduation Diploma in Yoga Therapy is to equip students to understand the ailments and design and develop a customized Yoga Therapy Module and apply the same to enhance the healing process. The P.G.D.Y.T course covers the subjects of philosophy, history and development of yogic science. Course incorporates the study and practice of asanas, pranayama, meditation, mudras, bandhas and kriyas. P.G.D.Y.T includes study of anatomy and physiology of the human body. Course also covers study of lifestyle changes and dietary practices to enhance the healing process.
+            </p><br> <br> <br><br> <br><br> 
+            <img src="images/yogapic1.jpeg" alt="Image" class="img-fluid"><br> <br><br>
+            <img src="images/yogapic2.jpeg" alt="Image" class="img-fluid">
+            <div>
+              <br>
+              <br>
+              <h2>Course Curriculum:</h2>     
+                <p>Please download the course Curriculum here</p>
+                <a href="./curriculum/01_Syllabus_PGDYT_LetterHead.pdf" download= "Course Curriculum PGDYT">
+                <button style = " background-color: rgb(2, 74, 146);
+                border: none;
+                color: white;
+                padding: 12px 30px;
+                cursor: pointer;
+                font-style:inherit;
+                font-size: 20px;"class="btn"><i class="fa fa-download"></i> Course Curriculum</button>
+                </a>
+
+
+              </div>   
+          </div>
+        </div>
+        <h2 >Documents to be produced during admission:
+        </h2>
+        <!-- center align -->
+        <table style = "color:black">
+          <tr>
+            <th style = "text-align: center; ">Indian Students</th>
+            <th  style = "text-align: center;">Foreign Students</th>
+            
+          </tr>
+          <tr>
+            <td>SSLC / PUC / Degree Marks Cards</td>
+            <td>10th / 12th / Degree Marks Cards</td>
+            
+          </tr>
+          <tr>
+            <td>Address Proof [Aadhaar / Voter ID ]</td>
+            <td>Passport and Valid VISA</td>
+            
+          </tr>
+          <tr>
+            <td>Passport size Photos – Five Numbers</td>
+            <td>Rent Agreement Documents</td>
+           
+          </tr>
+          <tr>
+            <td>Any other Relevant Yoga Certificates</td>
+            <td>Passport size Photos – Five Numbers</td>
+           
+          </tr>
+          
+        </table>
+        <br>
+
+        <h4 style = "color: black"><b >Fee Structure:</b> </h4><p style = "color: black">For details of the fee structure kindly contact the admissions office at the institute  </p>
+      
+        <h4 style = "color: black"><b>Course Duration: </b></h4><p  style = "color: black"> The Post-Graduation Diploma in Yoga Therapy course is for <b>ONE YEAR </b></p>
+        <h2> Examination Pattern:
+        </h2>
+        
+      <div class = "examtable">
+          
+        <table >
+          <tr>
+            <th rowspan="2" >Paper</th>
+            <th rowspan="2">Subject</th>
+            <th colspan="2">Marks</th>
+            <th  rowspan="2">Maximum Marks</th>
+            <th  rowspan="2">Minimum Marks</th>
+            
+          </tr>
+          <tr>
+            
+            <th style = "background-color: white" colspan="1"><b>Internal Assessment</b></th>
+            <th  style = "background-color: white" ><b>Exam</b></th>
+            
+          </tr>
+          <tr>
+            
+            <td>I</td>
+            <td style = " text-align: left;">
+          Philosophy, History and Development of Yoga</td>
+            <td>20</td>
+            <td>80</td>
+            <td>100</td>
+            <td>40</td>
+            
+          </tr>
+          <tr>
+            <td>II</td>
+            <td style = " text-align: left;">Principles of Yoga, Pranayama, Meditation & Kriyas</td>
+            <td>20</td>
+            <td>80</td>
+            <td>100</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>III</td>
+            <td style = " text-align: left;">Science of Yoga and Application of Yoga Therapy</td>
+            <td>20</td>
+            <td>80</td>
+            <td>100</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>IV</td>
+            <td style = " text-align: left;">Advanced Practical Training in Yoga</td>
+            <td>20</td>
+            <td>80</td>
+            <td>100</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>V</td>
+            <td style = " text-align: left;">Organization and Teaching Skills of Yogic Activities</td>
+            <td>20</td>
+            <td>80</td>
+            <td>100</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>VI</td>
+            <td style = " text-align: left;">Dissertation with Presentation</td>
+            <td>20</td>
+            <td>80</td>
+            <td>100</td>
+            <td>40</td>
+          </tr>
+        </table>
+      </div>
+      <br>
+      <div style = "color: black;"class="ul-check list-unstyled success">
+        <h4>Note:</h4>
+        <li> There shall be two contact programs for the students in an academic year.
+        </li>
+        <li>There shall be a university examination at the end of the course. Examination fee will be notified by VYE&RI and WYA separately.
+        </li>
+        <li>Minimum marks for passing is 40 in each paper (with minimum 30 marks in external and 10 marks in internal assessment) 
+        </li>
+        <li>Declaration of the result shall be as per the VYE&RI and WYA rules and regulations.
+        </li>
+        <li>The Institute will award certificates and medals to the students who have successfully completed a degree course at convocation ceremony every year. 
+        </li>
+        
+      </div>
+      <div>
+        <h3>Download the application form below:</h3>
+        
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTF0aWfxyY2DuTQWu2tcUsH2GSoGR7IEhWlCDMhtU4M4fBCg/viewform?usp=sf_link" download>
+                  <button style = " background-color: rgb(2, 74, 146);
+                  border: none;
+                  color: white;
+                  padding: 12px 30px;
+                  cursor: pointer;
+                  font-style:inherit;
+                  font-size: 20px;"class="btn"><i class="fa fa-download"></i> Application form</button>
+                  </a>
+      </div>
+      <br>
+      <br>
+        <div class="row">
+          <div class="col-12">
+            <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4_6yX37PuTpOlk0oN3HmVevMiZaQj8y_6SnbcjshnGNwsVw/viewform?usp=sf_link" class="btn btn-primary py-3 px-4">Contact Us</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer class="footer-section bg-dark" style = "block-size:10%;">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3 ml-auto">
+            <h3 class="text-white">MV Yogas</h3>
+            <ul class="list-unstyled footer-links">
+                <li><a href="index.html#home-section" class="nav-link">Home</a></li>
+                <li><a href="index.html#classes-section" class="nav-link">Yoga Courses</a></li>
+                <li><a href="index.html#schedule-section" class="nav-link">Yogic Forms</a></li>
+                <li><a href="index.html#trainer-section" class="nav-link">Instructors</a></li>
+                <li><a href="index.html#services-section" class="nav-link">Achievements</a></li>
+                <li><a href="index.html#contact-section" class="nav-link">Contact</a></li>
+                <li><a href="gallery.html" class="nav-link">Gallery</a></li>
+            </ul>
+          </div>
+          
+          <div class="col-md-4">
+
+                <div class="mapouter"><div class="gmap_canvas"><iframe width="317" height="350" id="gmap_canvas" src="https://maps.google.com/maps?q=Mysore%20Vivekanda%20Yogas%2C%20Mysore&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies free movies</a></div><style>.mapouter{position:relative;text-align:right;height:350px;width:317px;}.gmap_canvas {overflow:hidden;background:none!important;height:350px;width:317px;}</style></div>
+              </div>
+
+              <div class="col-md-4">
+                <h3>We are one click away!</h3>
+                <span class="subheading">Contact us using any of the links shared below </span><br><br><br><br>
+                <div class = "container">
+                <div class="icon-bar">
+                  <a href="https://www.facebook.com/mvyogas/" class="facebook"><i class="fa fa-facebook"></i></a> 
+                  <a href="https://www.instagram.com/yogacharyaganesh/" class="instagram"><i class="fa fa-instagram"></i></a>
+                  <a href="https://www.youtube.com/channel/UCeIGr22Fx9xhEedcUPQDvWw" class="youtube"><i class="fa fa-youtube"></i></a> 
+                </div>
+                
+                <span class = "glyphicon glyphicon-envelope" ></span> 
+                <h5 ><a  href="tel:+91 9448600581">+91 9448600581</a><br></h5>
+                <h5><a href="mailto:mvyogas@email.com">mvyogas@email.com</a></h5>
+              </div>                
+              </div>            
+          </div>
+        </div>        
+      </div>
+    </footer>
+
+
+  </div>
+  <!-- .site-wrap -->
+
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/jquery.countdown.min.js"></script>
+  <script src="js/bootstrap-datepicker.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.fancybox.min.js"></script>
+  <script src="js/jquery.sticky.js"></script>
+  <script src="js/jquery.mb.YTPlayer.min.js"></script>
+
+
+
+
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>
